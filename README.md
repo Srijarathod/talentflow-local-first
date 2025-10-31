@@ -282,6 +282,4 @@ This project is for demonstration purposes.
 - [Dexie.js](https://dexie.org)
 - [shadcn/ui](https://ui.shadcn.com)
 - [MSW Documentation](https://mswjs.io)
-#   T a l e n t - F l o w - E n t n t 
- 
- 
+#

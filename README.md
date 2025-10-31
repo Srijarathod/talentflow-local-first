@@ -9,7 +9,7 @@ A modern, local-first React application for HR teams to manage jobs, candidates,
 git clone <YOUR_GIT_URL>
 
 # Navigate to project directory
-cd <FOLDER_IN>
+cd folder name
 
 # Install dependencies
 npm install
@@ -282,5 +282,6 @@ This project is for demonstration purposes.
 - [Dexie.js](https://dexie.org)
 - [shadcn/ui](https://ui.shadcn.com)
 - [MSW Documentation](https://mswjs.io)
-#   T a l e n t - F l o w - E n t n t  
+#   T a l e n t - F l o w - E n t n t 
+ 
  
